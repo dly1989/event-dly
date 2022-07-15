@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="INSERT_OR_UPDATE">
+        <description/>
+        <display>company info rs (company info)</display>
+        <filter table="x_588686_dengt_company_info">company_id!=ncit<item endquery="false" field="company_id" goto="false" newquery="false" operator="!=" or="false" value="ncit"/>
+        </filter>
+        <name>company info rs</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>XP198905</sys_created_by>
+        <sys_created_on>2022-07-14 11:51:19</sys_created_on>
+        <sys_id>dcfaedbb97a0d110dd27fd9fe153af3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>company info rs (company info)</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_update_name>sys_report_source_dcfaedbb97a0d110dd27fd9fe153af3a</sys_update_name>
+        <sys_updated_by>XP198905</sys_updated_by>
+        <sys_updated_on>2022-07-14 11:51:19</sys_updated_on>
+        <table>x_588686_dengt_company_info</table>
+    </sys_report_source>
+</record_update>

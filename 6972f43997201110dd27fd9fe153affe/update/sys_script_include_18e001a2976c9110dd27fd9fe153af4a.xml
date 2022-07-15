@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_588686_dengt.ajaxGetEmail</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>ajaxGetEmail</name>
+        <script><![CDATA[var ajaxGetEmail = Class.create();
+ajaxGetEmail.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    getEmail: function() {
+        var userRecord = new GlideRecord("sys_user");
+        //userRecord.get(this.getParameter('sysparm_userID'));
+        userRecord.get(this.getParameter('sysparm_userID'));
+		gs.info('this.getParameter='+this.getParameter('sysparm_userID'));
+		gs.info('userRecord.email='+userRecord.email);
+        return userRecord.email + '';
+
+    },
+    type: 'ajaxGetEmail'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>XP198905</sys_created_by>
+        <sys_created_on>2022-07-10 11:36:26</sys_created_on>
+        <sys_id>18e001a2976c9110dd27fd9fe153af4a</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>ajaxGetEmail</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_policy>protected</sys_policy>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_update_name>sys_script_include_18e001a2976c9110dd27fd9fe153af4a</sys_update_name>
+        <sys_updated_by>XP198905</sys_updated_by>
+        <sys_updated_on>2022-07-10 12:09:02</sys_updated_on>
+    </sys_script_include>
+</record_update>

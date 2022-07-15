@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="property" max_length="40" name="x_588686_dengt_property" sizeclass="4" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=key" label="key" max_length="40" name="u_key" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=value" label="value" max_length="40" name="u_value" type="string"/>
+    </element>
+</database>

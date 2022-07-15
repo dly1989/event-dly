@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_state" table="x_588686_dengt_user_information" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_state</element>
+            <name>x_588686_dengt_user_information</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>XP198905</sys_created_by>
+            <sys_created_on>2022-07-09 11:16:21</sys_created_on>
+            <sys_id>7d43fbca97685110dd27fd9fe153afd8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_state</sys_name>
+            <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+            <sys_update_name>sys_choice_x_588686_dengt_user_information_u_state</sys_update_name>
+            <sys_updated_by>XP198905</sys_updated_by>
+            <sys_updated_on>2022-07-09 11:16:21</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>在职</label>
+            <language>en</language>
+            <name>x_588686_dengt_user_information</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>XP198905</sys_created_by>
+            <sys_created_on>2022-07-09 11:16:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3943fbca97685110dd27fd9fe153afd8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>XP198905</sys_updated_by>
+            <sys_updated_on>2022-07-09 11:16:21</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>离职</label>
+            <language>en</language>
+            <name>x_588686_dengt_user_information</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>XP198905</sys_created_by>
+            <sys_created_on>2022-07-09 11:16:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7543fbca97685110dd27fd9fe153afda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>XP198905</sys_updated_by>
+            <sys_updated_on>2022-07-09 11:16:21</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>试用期</label>
+            <language>en</language>
+            <name>x_588686_dengt_user_information</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>XP198905</sys_created_by>
+            <sys_created_on>2022-07-09 11:16:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f143fbca97685110dd27fd9fe153afdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>XP198905</sys_updated_by>
+            <sys_updated_on>2022-07-09 11:16:21</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

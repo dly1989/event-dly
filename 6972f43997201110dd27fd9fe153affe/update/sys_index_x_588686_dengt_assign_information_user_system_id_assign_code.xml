@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>user_system_id,assign_code</col_name_string>
+        <index_col_name>d1440b9297a49110dd27fd9fe153af8d,2125c7d297a49110dd27fd9fe153afed</index_col_name>
+        <logical_table_name>x_588686_dengt_assign_information</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-07-10 02:39:39</sys_created_on>
+        <sys_id>2296435697a49110dd27fd9fe153af1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_588686_dengt_assign_information</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_update_name>sys_index_x_588686_dengt_assign_information_user_system_id_assign_code</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-10 02:39:39</sys_updated_on>
+        <table display_value="assign information" name="x_588686_dengt_assign_information">eb468fbd97281110dd27fd9fe153af91</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

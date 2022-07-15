@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="dengT">31d2b07997201110dd27fd9fe153aff4</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>user information</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>XP198905</sys_created_by>
+        <sys_created_on>2022-07-08 02:37:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>79d2b07997201110dd27fd9fe153aff6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>user information</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_update_name>sys_app_module_79d2b07997201110dd27fd9fe153aff6</sys_update_name>
+        <sys_updated_by>XP198905</sys_updated_by>
+        <sys_updated_on>2022-07-09 09:16:31</sys_updated_on>
+        <timeline_page/>
+        <title>user information</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="dengT">6972f43997201110dd27fd9fe153affe</application>
+        <file_path/>
+        <instance_id>5ab32190db59738049eac597059619c2</instance_id>
+        <instance_name>dev85002</instance_name>
+        <name>sys_app_module_79d2b07997201110dd27fd9fe153aff6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="dengT">31d2b07997201110dd27fd9fe153aff4</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>user information</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>XP198905</sys_created_by><sys_created_on>2022-07-08 02:37:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>79d2b07997201110dd27fd9fe153aff6</sys_id><sys_mod_count>2</sys_mod_count><sys_name>user information</sys_name><sys_overrides/><sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package><sys_policy/><sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope><sys_update_name>sys_app_module_79d2b07997201110dd27fd9fe153aff6</sys_update_name><sys_updated_by>XP198905</sys_updated_by><sys_updated_on>2022-07-09 09:16:31</sys_updated_on><timeline_page/><title>user information</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-702603698</payload_hash>
+        <record_name>user information</record_name>
+        <reverted_from/>
+        <source>a3110a8297e05110dd27fd9fe153af4f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>XP198905</sys_created_by>
+        <sys_created_on>2022-07-09 09:16:31</sys_created_on>
+        <sys_id>1ad793c297285110dd27fd9fe153afe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181e23f0b040000001</sys_recorded_at>
+        <sys_updated_by>XP198905</sys_updated_by>
+        <sys_updated_on>2022-07-09 09:16:31</sys_updated_on>
+        <type>Module</type>
+        <update_guid>52d793c26b28511021f6933d459617e6</update_guid>
+        <update_guid_history>52d793c26b28511021f6933d459617e6:-702603698,8acf4fb5d968111065741c80e8f95f4b:362538830,0ed23479bb20111057e7a2b224a77447:-1711415612</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="user information">7dd57f8e97685110dd27fd9fe153aff0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>XP198905</sys_created_by>
+        <sys_created_on>2022-07-09 11:27:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0bc961e35e984e0481752e76ef1bcfc4</sys_id>
+        <sys_metadata>79d2b07997201110dd27fd9fe153aff6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>user information</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_scope_delete display_value="">e21a04734d5642b6bad27782d72267c1</sys_scope_delete>
+        <sys_update_name>sys_app_module_79d2b07997201110dd27fd9fe153aff6</sys_update_name>
+        <sys_update_version display_value="sys_app_module_79d2b07997201110dd27fd9fe153aff6">1ad793c297285110dd27fd9fe153afe6</sys_update_version>
+        <sys_updated_by>XP198905</sys_updated_by>
+        <sys_updated_on>2022-07-09 11:27:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

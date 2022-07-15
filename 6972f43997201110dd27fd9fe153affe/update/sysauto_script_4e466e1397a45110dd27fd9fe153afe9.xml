@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time>1970-01-01 00:00:00</entered_time>
+        <name>daily  update</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="DENG LIANGYUAN">2baeec3597201110dd27fd9fe153af77</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period>1970-01-01 00:00:01</run_period>
+        <run_start>2022-07-13 09:52:22</run_start>
+        <run_time>1970-01-01 08:00:00</run_time>
+        <run_type>periodically</run_type>
+        <script><![CDATA[var datetime = new GlideDatetime();
+var br = new GlideRecord('x_588686_dengt_acl_test');
+//br.addQuery('sys_created_on', '!=', datetime);
+br.query();
+gs.info('br============st');
+//検索結果がある場合
+var a = 0;
+while (br.next()) {
+    a++;
+    br.setValue('column_1', a+'');
+    br.update();
+    //br.deleteRecord();
+    gs.info('br============end');
+}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>XP198905</sys_created_by>
+        <sys_created_on>2022-07-13 03:28:46</sys_created_on>
+        <sys_id>4e466e1397a45110dd27fd9fe153afe9</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>daily  update</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_update_name>sysauto_script_4e466e1397a45110dd27fd9fe153afe9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 04:15:23</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

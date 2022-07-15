@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_588686_dengt.syain" name="x_588686_dengt.syain">6a2347b997281110dd27fd9fe153af4f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>XP198905</sys_created_by>
+        <sys_created_on>2022-07-08 13:07:40</sys_created_on>
+        <sys_id>6e2347b997281110dd27fd9fe153af52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6a2347b997281110dd27fd9fe153af4f</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6e2347b997281110dd27fd9fe153af52</sys_update_name>
+        <sys_updated_by>XP198905</sys_updated_by>
+        <sys_updated_on>2022-07-08 13:07:40</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

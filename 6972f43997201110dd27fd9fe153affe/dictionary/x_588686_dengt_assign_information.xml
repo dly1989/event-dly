@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="assign information" max_length="40" name="x_588686_dengt_assign_information" sizeclass="3" type="collection">
+        <element label="assign code" max_length="10" name="assign_code" type="string"/>
+        <element label="assign name" max_length="32" name="assign_name" type="string"/>
+        <element label="user system id" max_length="32" name="user_system_id" reference="x_588686_dengt_user_information" type="reference"/>
+        <index name="index">
+            <element name="user_system_id"/>
+            <element name="assign_code"/>
+        </index>
+    </element>
+</database>

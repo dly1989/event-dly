@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="code information" max_length="40" name="x_588686_dengt_code_information" sizeclass="1" type="collection">
+        <element label="code" max_length="4" name="code" type="string"/>
+        <element label="name" max_length="20" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

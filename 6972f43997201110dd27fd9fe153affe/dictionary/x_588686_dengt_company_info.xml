@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="company info" max_length="40" name="x_588686_dengt_company_info" sizeclass="3" type="collection">
+        <element display="true" label="company id" max_length="32" name="company_id" type="string"/>
+        <element label="company name" max_length="10" name="company_name" type="string"/>
+        <element attributes="target_field =company_percent_complete,target_threshold_colors=25:red;76:yellow,target_field=target" label="company Percent Complete" max_length="15" name="company_percent_complete" type="percent_complete"/>
+        <element label="target" max_length="40" name="target" type="string"/>
+    </element>
+</database>

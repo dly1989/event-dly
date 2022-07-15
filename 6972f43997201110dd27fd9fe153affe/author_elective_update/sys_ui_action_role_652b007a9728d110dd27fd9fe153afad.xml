@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_role">
+    <sys_ui_action_role action="DELETE">
+        <sys_class_name>sys_ui_action_role</sys_class_name>
+        <sys_created_by>XP198905</sys_created_by>
+        <sys_created_on>2022-07-11 02:18:15</sys_created_on>
+        <sys_id>652b007a9728d110dd27fd9fe153afad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>user info hide delete.admin</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_ui_action display_value="user info hide delete">2a99c8f69728d110dd27fd9fe153af2c</sys_ui_action>
+        <sys_update_name>sys_ui_action_role_652b007a9728d110dd27fd9fe153afad</sys_update_name>
+        <sys_updated_by>XP198905</sys_updated_by>
+        <sys_updated_on>2022-07-11 02:18:15</sys_updated_on>
+        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+    </sys_ui_action_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="dengT">6972f43997201110dd27fd9fe153affe</application>
+        <file_path/>
+        <instance_id>5ab32190db59738049eac597059619c2</instance_id>
+        <instance_name>dev85002</instance_name>
+        <name>sys_ui_action_role_652b007a9728d110dd27fd9fe153afad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_role"><sys_ui_action_role action="INSERT_OR_UPDATE"><sys_class_name>sys_ui_action_role</sys_class_name><sys_created_by>XP198905</sys_created_by><sys_created_on>2022-07-11 02:18:15</sys_created_on><sys_id>652b007a9728d110dd27fd9fe153afad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>user info hide delete.admin</sys_name><sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package><sys_policy/><sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope><sys_ui_action display_value="user info hide delete">2a99c8f69728d110dd27fd9fe153af2c</sys_ui_action><sys_update_name>sys_ui_action_role_652b007a9728d110dd27fd9fe153afad</sys_update_name><sys_updated_by>XP198905</sys_updated_by><sys_updated_on>2022-07-11 02:18:15</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role></sys_ui_action_role></record_update>]]></payload>
+        <payload_hash>-930019266</payload_hash>
+        <record_name>user info hide delete.admin</record_name>
+        <reverted_from/>
+        <source>a3110a8297e05110dd27fd9fe153af4f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>XP198905</sys_created_by>
+        <sys_created_on>2022-07-11 02:18:16</sys_created_on>
+        <sys_id>074b087a9728d110dd27fd9fe153afc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181eb0cd6470000001</sys_recorded_at>
+        <sys_updated_by>XP198905</sys_updated_by>
+        <sys_updated_on>2022-07-11 02:18:16</sys_updated_on>
+        <type>UI Action Role</type>
+        <update_guid>4f4b087a4728d110b59893efe8a51ec6</update_guid>
+        <update_guid_history>4f4b087a4728d110b59893efe8a51ec6:-930019266</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>XP198906</sys_created_by>
+        <sys_created_on>2022-07-11 02:22:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_action_role">sys_ui_action_role</sys_db_object>
+        <sys_id>6d782f01454a45d2bf3cb15f501ab801</sys_id>
+        <sys_metadata>652b007a9728d110dd27fd9fe153afad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>user info hide delete.admin</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_scope_delete display_value="">e21a04734d5642b6bad27782d72267c1</sys_scope_delete>
+        <sys_update_name>sys_ui_action_role_652b007a9728d110dd27fd9fe153afad</sys_update_name>
+        <sys_update_version display_value="sys_ui_action_role_652b007a9728d110dd27fd9fe153afad">074b087a9728d110dd27fd9fe153afc7</sys_update_version>
+        <sys_updated_by>XP198906</sys_updated_by>
+        <sys_updated_on>2022-07-11 02:22:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
