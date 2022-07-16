@@ -39,7 +39,7 @@
     // 3. Execute query 
     myObj.query();
 
-    // 4. Process returned records
+    // 4. Process returned records//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
     if (myObj.next()) {
 		myObj.setValue('user_name',current.getValue('user_name')+'nttdata');
 		myObj.update();
@@ -51,15 +51,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1a12d0e697a89110dd27fd9fe153af48</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>user info be update</sys_name>
         <sys_overrides/>
         <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
         <sys_policy/>
         <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
         <sys_update_name>sys_script_1a12d0e697a89110dd27fd9fe153af48</sys_update_name>
-        <sys_updated_by>XP198905</sys_updated_by>
-        <sys_updated_on>2022-07-10 11:21:05</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-15 14:49:21</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
