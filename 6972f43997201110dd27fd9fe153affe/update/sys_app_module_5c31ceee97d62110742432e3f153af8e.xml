@@ -4,37 +4,39 @@
         <application display_value="dengT">31d2b07997201110dd27fd9fe153aff4</application>
         <assessment/>
         <device_type/>
-        <filter/>
-        <hint>user information list</hint>
+        <filter table="x_588686_dengt_user_information">user_idLIKE1989^EQ<item endquery="false" field="user_id" goto="false" newquery="false" operator="LIKE" or="false" value="1989"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>FILTER</link_type>
         <map_page/>
-        <mobile_title>All</mobile_title>
+        <mobile_title>user info list filter</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_588686_dengt_user_information</name>
-        <order>100</order>
+        <order>1700</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_588686_dengt.sysAdmin,x_588686_dengt.syain</roles>
+        <roles>x_588686_dengt.syain,x_588686_dengt.sysAdmin,x_588686_dengtest.xp19895,x_588686_dengtest.xp19896</roles>
         <sys_class_name>sys_app_module</sys_class_name>
-        <sys_created_by>XP198905</sys_created_by>
-        <sys_created_on>2022-07-08 02:37:07</sys_created_on>
+        <sys_created_by>XP19895</sys_created_by>
+        <sys_created_on>2023-04-22 12:16:37</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>c6d2347997201110dd27fd9fe153af4a</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>user information List of Records</sys_name>
+        <sys_id>5c31ceee97d62110742432e3f153af8e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>user info list filter</sys_name>
         <sys_overrides/>
         <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
         <sys_policy/>
         <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
-        <sys_update_name>sys_app_module_c6d2347997201110dd27fd9fe153af4a</sys_update_name>
+        <sys_update_name>sys_app_module_5c31ceee97d62110742432e3f153af8e</sys_update_name>
         <sys_updated_by>XP19895</sys_updated_by>
-        <sys_updated_on>2023-04-22 11:46:05</sys_updated_on>
+        <sys_updated_on>2023-04-22 12:19:33</sys_updated_on>
         <timeline_page/>
-        <title>user information List of Records</title>
+        <title>user info list filter</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

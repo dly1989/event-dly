@@ -8,33 +8,45 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>DIRECT</link_type>
+        <link_type>SCRIPT</link_type>
         <map_page/>
-        <mobile_title>Properties</mobile_title>
+        <mobile_title>USER INFO SCRIPT</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name/>
-        <order>700</order>
-        <override_menu_roles>false</override_menu_roles>
-        <query>sys_properties.do?sysparm_title=NeedIt Application Properties&amp;sysparm_category=NeedIt Properties</query>
+        <order>2000</order>
+        <override_menu_roles>true</override_menu_roles>
+        <query>//script : x_588686_dengt_user_information_list.do&#13;
+var br = new GlideRecord('x_588686_dengt_user_information');&#13;
+br .addQuery('u_state','IN','1,3');&#13;
+br.query();&#13;
+gs.info('br============st');&#13;
+//検索結果がある場合&#13;
+while (br.next()) {&#13;
+&#13;
+  gs.info('br============'+br.getValue('user_id'));&#13;
+}&#13;
+&#13;
+&#13;
+</query>
         <report/>
-        <roles>x_588686_dengt.sysAdmin,x_588686_dengtest.xp19895,x_588686_dengtest.xp19896</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-07-14 06:54:07</sys_created_on>
+        <sys_created_by>XP19895</sys_created_by>
+        <sys_created_on>2023-04-22 12:26:22</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>1bf6283797ac9110dd27fd9fe153af48</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Properties</sys_name>
+        <sys_id>9b334ea2971a2110742432e3f153af2c</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>USER INFO SCRIPT</sys_name>
         <sys_overrides/>
         <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
         <sys_policy/>
         <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
-        <sys_update_name>sys_app_module_1bf6283797ac9110dd27fd9fe153af48</sys_update_name>
+        <sys_update_name>sys_app_module_9b334ea2971a2110742432e3f153af2c</sys_update_name>
         <sys_updated_by>XP19895</sys_updated_by>
-        <sys_updated_on>2023-04-16 09:31:31</sys_updated_on>
+        <sys_updated_on>2023-04-22 13:11:49</sys_updated_on>
         <timeline_page/>
-        <title>Properties</title>
+        <title>USER INFO SCRIPT</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
