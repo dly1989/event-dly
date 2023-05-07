@@ -16,7 +16,7 @@
         <menu/>
         <name>dengT</name>
         <private>false</private>
-        <restrict_table_access>false</restrict_table_access>
+        <restrict_table_access>true</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_588686_dengt</scope>
         <scoped_administration>false</scoped_administration>
@@ -29,9 +29,9 @@
         <sys_created_by>XP198905</sys_created_by>
         <sys_created_on>2022-07-08 02:35:27</sys_created_on>
         <sys_id>6972f43997201110dd27fd9fe153affe</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>XP198905</sys_updated_by>
-        <sys_updated_on>2022-07-09 02:51:30</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>XP19895</sys_updated_by>
+        <sys_updated_on>2023-04-30 08:47:53</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>

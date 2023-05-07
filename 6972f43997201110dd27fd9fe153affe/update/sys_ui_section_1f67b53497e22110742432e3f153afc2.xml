@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="deng section2" section_id="1f67b53497e22110742432e3f153afc2" sys_domain="global" table="x_588686_dengt_user_information" version="3" view="admin_user">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company_id</element>
+            <position>0</position>
+            <sys_created_by>XP19895</sys_created_by>
+            <sys_created_on>2023-04-29 11:19:35</sys_created_on>
+            <sys_id>5367b53497e22110742432e3f153afe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="deng section2" display_value="deng section2" name="x_588686_dengt_user_information" sys_domain="global" view="f2f6bfce97685110dd27fd9fe153af19">1f67b53497e22110742432e3f153afc2</sys_ui_section>
+            <sys_updated_by>XP19895</sys_updated_by>
+            <sys_updated_on>2023-04-29 11:19:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_state</element>
+            <position>1</position>
+            <sys_created_by>XP19895</sys_created_by>
+            <sys_created_on>2023-04-29 11:19:35</sys_created_on>
+            <sys_id>d367b53497e22110742432e3f153afe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="deng section2" display_value="deng section2" name="x_588686_dengt_user_information" sys_domain="global" view="f2f6bfce97685110dd27fd9fe153af19">1f67b53497e22110742432e3f153afc2</sys_ui_section>
+            <sys_updated_by>XP19895</sys_updated_by>
+            <sys_updated_on>2023-04-29 11:19:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_shuliang</element>
+            <position>2</position>
+            <sys_created_by>XP19895</sys_created_by>
+            <sys_created_on>2023-04-29 11:19:35</sys_created_on>
+            <sys_id>5767b53497e22110742432e3f153afe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="deng section2" display_value="deng section2" name="x_588686_dengt_user_information" sys_domain="global" view="f2f6bfce97685110dd27fd9fe153af19">1f67b53497e22110742432e3f153afc2</sys_ui_section>
+            <sys_updated_by>XP19895</sys_updated_by>
+            <sys_updated_on>2023-04-29 11:19:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>old</element>
+            <position>3</position>
+            <sys_created_by>XP19895</sys_created_by>
+            <sys_created_on>2023-04-29 11:19:35</sys_created_on>
+            <sys_id>d767b53497e22110742432e3f153afe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="deng section2" display_value="deng section2" name="x_588686_dengt_user_information" sys_domain="global" view="f2f6bfce97685110dd27fd9fe153af19">1f67b53497e22110742432e3f153afc2</sys_ui_section>
+            <sys_updated_by>XP19895</sys_updated_by>
+            <sys_updated_on>2023-04-29 11:19:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>XP19895</sys_created_by>
+            <sys_created_on>2023-04-29 11:19:35</sys_created_on>
+            <sys_id>5b67b53497e22110742432e3f153afe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="deng section2" display_value="deng section2" name="x_588686_dengt_user_information" sys_domain="global" view="f2f6bfce97685110dd27fd9fe153af19">1f67b53497e22110742432e3f153afc2</sys_ui_section>
+            <sys_updated_by>XP19895</sys_updated_by>
+            <sys_updated_on>2023-04-29 11:19:35</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sheng_date</element>
+            <position>5</position>
+            <sys_created_by>XP19895</sys_created_by>
+            <sys_created_on>2023-04-29 11:19:35</sys_created_on>
+            <sys_id>db67b53497e22110742432e3f153afe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="deng section2" display_value="deng section2" name="x_588686_dengt_user_information" sys_domain="global" view="f2f6bfce97685110dd27fd9fe153af19">1f67b53497e22110742432e3f153afc2</sys_ui_section>
+            <sys_updated_by>XP19895</sys_updated_by>
+            <sys_updated_on>2023-04-29 11:19:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_int</element>
+            <position>6</position>
+            <sys_created_by>XP19895</sys_created_by>
+            <sys_created_on>2023-04-29 11:19:35</sys_created_on>
+            <sys_id>5f67b53497e22110742432e3f153afe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="deng section2" display_value="deng section2" name="x_588686_dengt_user_information" sys_domain="global" view="f2f6bfce97685110dd27fd9fe153af19">1f67b53497e22110742432e3f153afc2</sys_ui_section>
+            <sys_updated_by>XP19895</sys_updated_by>
+            <sys_updated_on>2023-04-29 11:19:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sum</element>
+            <position>7</position>
+            <sys_created_by>XP19895</sys_created_by>
+            <sys_created_on>2023-04-29 11:19:35</sys_created_on>
+            <sys_id>df67b53497e22110742432e3f153afe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="deng section2" display_value="deng section2" name="x_588686_dengt_user_information" sys_domain="global" view="f2f6bfce97685110dd27fd9fe153af19">1f67b53497e22110742432e3f153afc2</sys_ui_section>
+            <sys_updated_by>XP19895</sys_updated_by>
+            <sys_updated_on>2023-04-29 11:19:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>8</position>
+            <sys_created_by>XP19895</sys_created_by>
+            <sys_created_on>2023-04-29 11:19:35</sys_created_on>
+            <sys_id>5367b53497e22110742432e3f153afe8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="deng section2" display_value="deng section2" name="x_588686_dengt_user_information" sys_domain="global" view="f2f6bfce97685110dd27fd9fe153af19">1f67b53497e22110742432e3f153afc2</sys_ui_section>
+            <sys_updated_by>XP19895</sys_updated_by>
+            <sys_updated_on>2023-04-29 11:19:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>deng section2</caption>
+            <header>false</header>
+            <name>x_588686_dengt_user_information</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>XP19895</sys_created_by>
+            <sys_created_on>2023-04-29 11:19:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f67b53497e22110742432e3f153afc2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_588686_dengt_user_information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+            <sys_update_name>sys_ui_section_1f67b53497e22110742432e3f153afc2</sys_update_name>
+            <sys_updated_by>XP19895</sys_updated_by>
+            <sys_updated_on>2023-04-29 11:19:34</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="admin user" name="admin_user">f2f6bfce97685110dd27fd9fe153af19</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
