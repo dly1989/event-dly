@@ -14,27 +14,27 @@
         <mobile_view_name>Mobile</mobile_view_name>
         <name/>
         <order>700</order>
-        <override_menu_roles>false</override_menu_roles>
-        <query>sys_properties.do?sysparm_title=NeedIt Application Properties&amp;sysparm_category=NeedIt Properties</query>
+        <override_menu_roles>true</override_menu_roles>
+        <query>system_properties_ui.do?sysparm_title=deng NeedIt Application Properties&amp;sysparm_category=NeedIt Properties</query>
         <report/>
-        <roles>x_588686_dengt.sysAdmin,x_588686_dengtest.xp19895,x_588686_dengtest.xp19896</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-07-14 06:54:07</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1bf6283797ac9110dd27fd9fe153af48</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Properties</sys_name>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Properties mudule</sys_name>
         <sys_overrides/>
         <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
         <sys_policy/>
         <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
         <sys_update_name>sys_app_module_1bf6283797ac9110dd27fd9fe153af48</sys_update_name>
         <sys_updated_by>XP19895</sys_updated_by>
-        <sys_updated_on>2023-04-16 09:31:31</sys_updated_on>
+        <sys_updated_on>2023-05-01 01:50:48</sys_updated_on>
         <timeline_page/>
-        <title>Properties</title>
+        <title>Properties mudule</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

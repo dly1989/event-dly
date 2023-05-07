@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="6478b43197a22110742432e3f153afea" sys_domain="global" table="x_588686_dengt_user_information" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 09:18:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6478b43197a22110742432e3f153afed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_588686_dengt_user_information" name="x_588686_dengt_user_information" sys_domain="global" view="ac78b43197a22110742432e3f153afe2">6478b43197a22110742432e3f153afea</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_588686_dengt_user_information" sys_domain="global" view="ac78b43197a22110742432e3f153afe2">ac78b43197a22110742432e3f153afe7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 09:18:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 09:18:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6078b43197a22110742432e3f153afee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_588686_dengt_user_information" name="x_588686_dengt_user_information" sys_domain="global" view="ac78b43197a22110742432e3f153afe2">6478b43197a22110742432e3f153afea</sys_ui_form>
+            <sys_ui_section caption="deng section2" display_value="deng section2" name="x_588686_dengt_user_information" sys_domain="global" view="ac78b43197a22110742432e3f153afe2">6478b43197a22110742432e3f153afe9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 09:18:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_588686_dengt_user_information</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 09:18:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6478b43197a22110742432e3f153afea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_588686_dengt_user_information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6478b43197a22110742432e3f153afea</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 09:18:20</sys_updated_on>
+            <sys_user/>
+            <view display_value="Self Service View" name="Self_Service_View">ac78b43197a22110742432e3f153afe2</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

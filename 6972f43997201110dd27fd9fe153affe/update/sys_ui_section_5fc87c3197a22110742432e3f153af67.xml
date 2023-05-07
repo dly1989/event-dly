@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5fc87c3197a22110742432e3f153af67" sys_domain="global" table="x_588686_dengt_user_information" version="3" view="Self_Service">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 09:19:53</sys_created_on>
+            <sys_id>dbc87c3197a22110742432e3f153af95</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_588686_dengt_user_information" sys_domain="global" view="9bc87c3197a22110742432e3f153af64">5fc87c3197a22110742432e3f153af67</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 09:19:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sex</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 09:19:53</sys_created_on>
+            <sys_id>5fc87c3197a22110742432e3f153af95</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_588686_dengt_user_information" sys_domain="global" view="9bc87c3197a22110742432e3f153af64">5fc87c3197a22110742432e3f153af67</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 09:19:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 09:19:53</sys_created_on>
+            <sys_id>dfc87c3197a22110742432e3f153af95</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_588686_dengt_user_information" sys_domain="global" view="9bc87c3197a22110742432e3f153af64">5fc87c3197a22110742432e3f153af67</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 09:19:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 09:19:53</sys_created_on>
+            <sys_id>53c87c3197a22110742432e3f153af96</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_588686_dengt_user_information" sys_domain="global" view="9bc87c3197a22110742432e3f153af64">5fc87c3197a22110742432e3f153af67</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 09:19:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_588686_dengt_user_information</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 09:19:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5fc87c3197a22110742432e3f153af67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_588686_dengt_user_information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+            <sys_update_name>sys_ui_section_5fc87c3197a22110742432e3f153af67</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 09:19:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self_service" name="Self_Service">9bc87c3197a22110742432e3f153af64</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

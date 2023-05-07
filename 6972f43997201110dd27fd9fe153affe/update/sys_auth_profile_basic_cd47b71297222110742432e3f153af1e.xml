@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>rest basic</name>
+        <password>﷞﷟﷒9b7c4b8b97212110742432e3f153afc7﷬﷔1﷬﷭VkBvYwVxHk4Sc59UjT7BzA==i1NCS6ayaKNepqkYAngNh57txuDCmSjzaQ==﷮﷯</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 12:29:25</sys_created_on>
+        <sys_id>cd47b71297222110742432e3f153af1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rest basic</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_cd47b71297222110742432e3f153af1e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-04 12:29:25</sys_updated_on>
+        <username>liangyuan.deng@china.nttdata.com</username>
+    </sys_auth_profile_basic>
+</record_update>
