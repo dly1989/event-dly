@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter">
+    <sys_ws_query_parameter action="INSERT_OR_UPDATE">
+        <example_value/>
+        <name>deng Scripted REST Query Parameter</name>
+        <required>false</required>
+        <short_description/>
+        <sys_class_name>sys_ws_query_parameter</sys_class_name>
+        <sys_created_by>XP19895</sys_created_by>
+        <sys_created_on>2023-05-06 00:28:17</sys_created_on>
+        <sys_id>e255e77a9722a110742432e3f153af3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>deng Scripted REST Query Parameter</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_update_name>sys_ws_query_parameter_e255e77a9722a110742432e3f153af3e</sys_update_name>
+        <sys_updated_by>XP19895</sys_updated_by>
+        <sys_updated_on>2023-05-06 00:28:17</sys_updated_on>
+        <web_service_definition display_value="deng Scripted REST API">35a3ebf69722a110742432e3f153af3c</web_service_definition>
+    </sys_ws_query_parameter>
+</record_update>

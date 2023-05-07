@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Usage by Web API">422437929f811200ef4afa7dc67fcfe7</legacy_page>
+        <name>PA Usage by Web API</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>XP19895</sys_created_by>
+        <sys_created_on>2023-05-05 13:31:01</sys_created_on>
+        <sys_id>930f8d7297e66110742432e3f153afeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Usage by Web API</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_update_name>sys_grid_canvas_930f8d7297e66110742432e3f153afeb</sys_update_name>
+        <sys_updated_by>XP19895</sys_updated_by>
+        <sys_updated_on>2023-05-05 13:31:01</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

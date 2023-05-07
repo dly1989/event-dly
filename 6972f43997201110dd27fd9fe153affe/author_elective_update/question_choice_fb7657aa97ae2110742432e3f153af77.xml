@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>0</order>
+        <published_ref display_value="在职">04311f2697ae2110742432e3f153af33</published_ref>
+        <question display_value="state">737657aa97ae2110742432e3f153af70</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>XP19895</sys_created_by>
+        <sys_created_on>2023-05-05 04:44:18</sys_created_on>
+        <sys_id>fb7657aa97ae2110742432e3f153af77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>在职</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_update_name>question_choice_fb7657aa97ae2110742432e3f153af77</sys_update_name>
+        <sys_updated_by>XP19895</sys_updated_by>
+        <sys_updated_on>2023-05-05 04:44:18</sys_updated_on>
+        <text>在职</text>
+        <value>1</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=fb7657aa97ae2110742432e3f153af77"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="dengT">6972f43997201110dd27fd9fe153affe</application>
+        <file_path/>
+        <instance_id>e4e4ac24dba79110b847ac44d4961921</instance_id>
+        <instance_name>dev145554</instance_name>
+        <name>question_choice_fb7657aa97ae2110742432e3f153af77</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>0</order><published_ref display_value="在职">04311f2697ae2110742432e3f153af33</published_ref><question display_value="state">737657aa97ae2110742432e3f153af70</question><sys_class_name>question_choice</sys_class_name><sys_created_by>XP19895</sys_created_by><sys_created_on>2023-05-05 04:44:18</sys_created_on><sys_id>fb7657aa97ae2110742432e3f153af77</sys_id><sys_mod_count>0</sys_mod_count><sys_name>在职</sys_name><sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package><sys_policy/><sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope><sys_update_name>question_choice_fb7657aa97ae2110742432e3f153af77</sys_update_name><sys_updated_by>XP19895</sys_updated_by><sys_updated_on>2023-05-05 04:44:18</sys_updated_on><text>在职</text><value>1</value></question_choice><fx_price action="delete_multiple" query="id=fb7657aa97ae2110742432e3f153af77"/></record_update>]]></payload>
+        <payload_hash>1600513008</payload_hash>
+        <record_name>在职</record_name>
+        <reverted_from/>
+        <source>c6487efe97da6110742432e3f153afbd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>XP19895</sys_created_by>
+        <sys_created_on>2023-05-05 04:44:19</sys_created_on>
+        <sys_id>f37657aa97ae2110742432e3f153af7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187ea39a4b80000001</sys_recorded_at>
+        <sys_updated_by>XP19895</sys_updated_by>
+        <sys_updated_on>2023-05-05 04:44:19</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>7b7657aa79ae21101d0edccab8c43879</update_guid>
+        <update_guid_history>7b7657aa79ae21101d0edccab8c43879:1600513008</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="在职">56a8df2e97ae2110742432e3f153af9b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>XP19895</sys_created_by>
+        <sys_created_on>2023-05-05 04:53:46</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>21c85eb014d943e4824147953f98ea10</sys_id>
+        <sys_metadata>fb7657aa97ae2110742432e3f153af77</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>在职</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_scope_delete display_value="">e21a04734d5642b6bad27782d72267c1</sys_scope_delete>
+        <sys_update_name>question_choice_fb7657aa97ae2110742432e3f153af77</sys_update_name>
+        <sys_update_version display_value="question_choice_fb7657aa97ae2110742432e3f153af77">f37657aa97ae2110742432e3f153af7a</sys_update_version>
+        <sys_updated_by>XP19895</sys_updated_by>
+        <sys_updated_on>2023-05-05 04:53:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

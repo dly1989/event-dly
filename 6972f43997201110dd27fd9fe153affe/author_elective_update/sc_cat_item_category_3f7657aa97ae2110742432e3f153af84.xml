@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="scatalog test">a7769fa697ae2110742432e3f153afa8</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>XP19895</sys_created_by>
+        <sys_created_on>2023-05-05 04:44:19</sys_created_on>
+        <sys_id>3f7657aa97ae2110742432e3f153af84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.scatalog test</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_update_name>sc_cat_item_category_3f7657aa97ae2110742432e3f153af84</sys_update_name>
+        <sys_updated_by>XP19895</sys_updated_by>
+        <sys_updated_on>2023-05-05 04:44:19</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="dengT">6972f43997201110dd27fd9fe153affe</application>
+        <file_path/>
+        <instance_id>e4e4ac24dba79110b847ac44d4961921</instance_id>
+        <instance_name>dev145554</instance_name>
+        <name>sc_cat_item_category_3f7657aa97ae2110742432e3f153af84</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="scatalog test">a7769fa697ae2110742432e3f153afa8</sc_cat_item><sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>XP19895</sys_created_by><sys_created_on>2023-05-05 04:44:19</sys_created_on><sys_id>3f7657aa97ae2110742432e3f153af84</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Services.scatalog test</sys_name><sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package><sys_policy/><sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope><sys_update_name>sc_cat_item_category_3f7657aa97ae2110742432e3f153af84</sys_update_name><sys_updated_by>XP19895</sys_updated_by><sys_updated_on>2023-05-05 04:44:19</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1347583463</payload_hash>
+        <record_name>Services.scatalog test</record_name>
+        <reverted_from/>
+        <source>c6487efe97da6110742432e3f153afbd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>XP19895</sys_created_by>
+        <sys_created_on>2023-05-05 04:44:19</sys_created_on>
+        <sys_id>f77657aa97ae2110742432e3f153af88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187ea39a60e0000001</sys_recorded_at>
+        <sys_updated_by>XP19895</sys_updated_by>
+        <sys_updated_on>2023-05-05 04:44:19</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>7f7657aaa8ae2110fa7690b577670787</update_guid>
+        <update_guid_history>7f7657aaa8ae2110fa7690b577670787:1347583463</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Services.scatalog test">62a8136e97ae2110742432e3f153af32</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>XP19895</sys_created_by>
+        <sys_created_on>2023-05-05 04:53:48</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>72ad498af0654bc1be788d158e7dab89</sys_id>
+        <sys_metadata>3f7657aa97ae2110742432e3f153af84</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.scatalog test</sys_name>
+        <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
+        <sys_scope_delete display_value="">e21a04734d5642b6bad27782d72267c1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_3f7657aa97ae2110742432e3f153af84</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_3f7657aa97ae2110742432e3f153af84">f77657aa97ae2110742432e3f153af88</sys_update_version>
+        <sys_updated_by>XP19895</sys_updated_by>
+        <sys_updated_on>2023-05-05 04:53:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
