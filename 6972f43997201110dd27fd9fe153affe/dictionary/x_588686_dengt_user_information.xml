@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="user information" max_length="40" name="x_588686_dengt_user_information" sizeclass="1" text_index="true" type="collection">
+    <element label="user information" max_length="40" name="x_588686_dengt_user_information" sizeclass="12" type="collection">
         <element label="company id" max_length="32" name="company_id" reference="x_588686_dengt_company_info" type="reference"/>
         <element label="Email" max_length="32" name="email" type="string"/>
         <element label="old" max_length="10" name="old" type="integer"/>
@@ -12,7 +12,7 @@
         <element label="sheng date" mandatory="true" max_length="10" name="sheng_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element attributes="edge_encryption_enabled=true" label="user id" max_length="40" name="user_id" type="string"/>
-        <element label="user name" max_length="40" name="user_name" type="string"/>
+        <element label="user name NEW" max_length="40" name="user_name" type="string"/>
         <element label="int" max_length="40" name="u_int" type="integer"/>
         <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" max_length="20" name="u_price" type="price"/>
         <element label="Shuliang" max_length="40" name="u_shuliang" type="integer"/>

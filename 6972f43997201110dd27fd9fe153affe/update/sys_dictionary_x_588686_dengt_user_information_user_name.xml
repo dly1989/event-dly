@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>user name</column_label>
+        <column_label>user name NEW</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-07-08 03:07:21</sys_created_on>
-        <sys_id>50b9fcfd97201110dd27fd9fe153af02</sys_id>
+        <sys_id>c01f14be970ae110742432e3f153af7d</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>user name</sys_name>
+        <sys_name>user name NEW</sys_name>
         <sys_package display_value="dengT" source="x_588686_dengt">6972f43997201110dd27fd9fe153affe</sys_package>
         <sys_policy/>
         <sys_scope display_value="dengT">6972f43997201110dd27fd9fe153affe</sys_scope>
         <sys_update_name>sys_dictionary_x_588686_dengt_user_information_user_name</sys_update_name>
-        <sys_updated_by>XP198905</sys_updated_by>
-        <sys_updated_on>2022-07-08 03:11:44</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-07 03:13:05</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
